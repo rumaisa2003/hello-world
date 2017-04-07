@@ -1,0 +1,73 @@
+body {
+		background-color:#00001f;
+		}
+
+		p {
+		color:#ffffff;
+		font-family:amatic sc,sans serif;
+		font-size:1.3em;
+		text-align:center;
+		}
+
+		div h1 {
+		color:#00001f;
+		font-size:30px;
+		font-family:daydreamer;
+		text-align:center;
+		}
+
+		table {
+		border-collapse:collapse;
+		padding:5px;
+		}
+
+		th, td {
+		color:#ffffff;
+		}
+
+		td {
+		padding:6px;
+		}
+
+		img {
+		height:200px;
+		width:200px;
+		border:5px solid #ffffff;
+		}
+
+		a {
+		color:#ffffff;
+		text-decoration:none;
+		}
+		
+		#header {
+		margin:auto;
+		height:35px;
+		width:em;
+		background-color:pink;
+		border-radius:5px;
+		}
+		
+		#photos {
+		border:white solid 1px;
+		width:444px;
+		position:block-inline;
+		float:left;
+		margin-left:30px;
+		}
+		
+		#text {
+		width:200px;
+		height:50px;
+		background-color:white;
+		float:right;
+		position:block-inline;
+		margin-right:300px;
+		padding-left:5px;
+		background-image:url("http://data.whicdn.com/images/48194811/large.jpg");
+		background-size:cover;
+		}
+		
+		#everything {
+		margin:auto;
+		}
